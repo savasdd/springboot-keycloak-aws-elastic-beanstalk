@@ -13,7 +13,7 @@ After setting db roles traffic so access database.
 ![image](https://user-images.githubusercontent.com/29261072/185306371-085f4091-b2b3-45ef-bd29-6bf9609c66b1.png)
 
 # ELASTİC BEANSTALK SERVİCE
-Created web app that java platform.
+Created web app that java platform. Upload java.jar in source code. Setting database tabs and select db sections.
 
 ![image](https://user-images.githubusercontent.com/29261072/185307087-baf8ff4d-288f-4011-9ead-b2de4ec54400.png)
 ![image](https://user-images.githubusercontent.com/29261072/185307176-b0152786-29d6-4df8-854c-419996472d7d.png)
