@@ -1,7 +1,4 @@
-# spring_keycloak_aws_elastic_beanstalk
-Spring project keycloak, aws elastic beanstalk entegrations.
-
-**CREATE DATABASE**
+# CREATE DATABASE
 
 Created a database on aws. That postgresql database to use.
 ![image](https://user-images.githubusercontent.com/29261072/185306089-22d9e43e-c369-435e-af1a-723a90640181.png)
